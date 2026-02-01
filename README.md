@@ -19,7 +19,7 @@ The project uses **Python**, **SQL**, and **Power BI** for end-to-end data analy
 - Purchase details: Item, Category, Amount, Season, Size, Color
 - Shopping behavior: Discounts, Promo Codes, Review Ratings, Shipping Type
 
-📁 File: `data/raw_customer_shopping_data.csv`
+
 
 ---
 
@@ -33,7 +33,6 @@ Python was used for data cleaning and feature engineering.
 - Created new features such as age groups and purchase frequency
 - Prepared cleaned data for SQL analysis
 
-📁 File: `notebooks/customer_shopping_analysis.ipynb`
 
 ---
 
@@ -48,7 +47,6 @@ SQL queries were written to answer important business questions, including:
 - Customer segmentation (New, Returning, Loyal)
 - Revenue contribution by age group
 
-📁 File: `sql/customer_shopping_analysis.sql`
 
 ---
 
@@ -59,7 +57,6 @@ An interactive Power BI dashboard was created to visualize:
 - Product category performance
 - Subscription impact on revenue
 
-📁 File: `powerbi/customer_shopping_dashboard.pbix`
 
 
 ---
@@ -68,7 +65,6 @@ An interactive Power BI dashboard was created to visualize:
 - Customer Shopping Behavior Analysis Report
 - Project Presentation (Executive Summary)
 
-📁 Folder: `reports/`
 
 ---
 
