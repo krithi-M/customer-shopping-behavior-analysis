@@ -62,7 +62,7 @@ An interactive Power BI dashboard was created to visualize:
 📁 File: `powerbi/customer_shopping_dashboard.pbix`
 
 ### Dashboard Preview
-![Dashboard Preview](powerbi/screenshots/dashboard.png)
+![Dashboard Preview]((https://github.com/krithi-M/customer-shopping-behavior-analysis/blob/main/powerbi/screenshots/Dashboard.png))
 
 ---
 
